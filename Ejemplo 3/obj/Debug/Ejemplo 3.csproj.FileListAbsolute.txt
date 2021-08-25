@@ -1,0 +1,5 @@
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplos - Semana 4 02T\Ejemplo 3\bin\Debug\Ejemplo 3.exe.config
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplos - Semana 4 02T\Ejemplo 3\bin\Debug\Ejemplo 3.exe
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplos - Semana 4 02T\Ejemplo 3\bin\Debug\Ejemplo 3.pdb
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplos - Semana 4 02T\Ejemplo 3\obj\Debug\Ejemplo 3.exe
+c:\users\jonas\documents\visual studio 2015\Projects\Ejemplos - Semana 4 02T\Ejemplo 3\obj\Debug\Ejemplo 3.pdb
